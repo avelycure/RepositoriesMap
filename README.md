@@ -10,7 +10,7 @@ Here you can easily navigate between my repositories
 
 ## Android
 
-### Movie fan
+### [Movie fan](https://github.com/avelycure/MovieFan)
 
 Application for getting information about films from The Movie Database:
 * getting list of popular movies
@@ -21,7 +21,7 @@ Application for getting information about films from The Movie Database:
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/movieFan/movie_info1.jpg" width="256" />
 </p>
 
-### Cryptostats
+### [Cryptostats](https://github.com/avelycure/CryptoStats)
 
 App for getting information from [Gemini API](https://docs.gemini.com/rest-api/):
 * Coin value
@@ -35,25 +35,26 @@ App for getting information from [Gemini API](https://docs.gemini.com/rest-api/)
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/cryptostats/actual2.jpg" width="256" />
 </p>
 
-### PhotoGallery
+### [PhotoGallery](https://github.com/avelycure/PhotoGallery)
 
-Application for viewing photos from the site flickr.com.
+Application for viewing photos from the site flickr.com
 <p>
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/photoGallery/home.jpg" width="256" />
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/photoGallery/query.jpg" width="256" />
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/photoGallery/albums.jpg" width="256" />
 </p>
 
-### Video calls with Agora
+### [Video calls with Agora](https://github.com/avelycure/VideoCalls)
 
-### My timetable
+### [My timetable](https://github.com/avelycure/MyTimetable)
 
 Application to watch timetable
 <p>
 <img src="https://github.com/avelycure/avelycure/blob/master/assets/timetable/edit_timetable1.jpg" width="320" />
 </p>
 
-### Running app
+### [Running app](https://github.com/avelycure/RunningApp)
+App for tracking running statistic
 
 ## Labs
 
