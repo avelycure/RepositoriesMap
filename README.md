@@ -2,15 +2,15 @@
 
 Here you can easily navigate between my repositories
 
-## Main directions
+# Menu
+* [Android(Java + Kotlin)](#android)
+* [Laboratory works(C++)](#labs)
+* [Course works](#course_works)
 
-* Android(Java + Kotlin)
-* Laboratory works(C++)
-* Course works
+# Android
+A great part of my projects are android apps. Here you can find them
 
-## Android
-
-### [Movie fan](https://github.com/avelycure/MovieFan)
+## [Movie fan](https://github.com/avelycure/MovieFan)
 
 Application for getting information about films from The Movie Database:
 * getting list of popular movies
@@ -21,7 +21,7 @@ Application for getting information about films from The Movie Database:
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/movieFan/movie_info1.jpg" width="256" />
 </p>
 
-### [Cryptostats](https://github.com/avelycure/CryptoStats)
+## [Cryptostats](https://github.com/avelycure/CryptoStats)
 
 App for getting information from [Gemini API](https://docs.gemini.com/rest-api/):
 * Coin value
@@ -35,44 +35,52 @@ App for getting information from [Gemini API](https://docs.gemini.com/rest-api/)
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/cryptostats/actual2.jpg" width="256" />
 </p>
 
-### [PhotoGallery](https://github.com/avelycure/PhotoGallery)
+## [PhotoGallery](https://github.com/avelycure/PhotoGallery)
 
 Application for viewing photos from the site flickr.com
 <p>
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/photoGallery/home.jpg" width="256" />
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/photoGallery/query.jpg" width="256" />
-  <img src="https://github.com/avelycure/avelycure/blob/master/assets/photoGallery/albums.jpg" width="256" />
 </p>
 
-### [Video calls with Agora](https://github.com/avelycure/VideoCalls)
+## [Video calls with Agora](https://github.com/avelycure/VideoCalls)
+App for video calling using Agora library
 
-### [My timetable](https://github.com/avelycure/MyTimetable)
-
+## [My timetable](https://github.com/avelycure/MyTimetable)
 Application to watch timetable
 <p>
 <img src="https://github.com/avelycure/avelycure/blob/master/assets/timetable/edit_timetable1.jpg" width="320" />
 </p>
 
-### [Running app](https://github.com/avelycure/RunningApp)
+## [Running app](https://github.com/avelycure/RunningApp)
 App for tracking running statistic
 
-## Labs
+# Laboratory works on C++
 
-### [Numerical methods 5 sem](https://github.com/avelycure/ScientificWork/tree/master/NumericalMethodsLabs)
+## [Numerical methods](https://github.com/avelycure/ScientificWork/tree/master/NumericalMethodsLabs)
+Laboratory work on the course of Numerical Methods. Runge Kutta method and solution of the integral equation
 
-### [Parallel computing technologies](https://github.com/avelycure/ParallelComputingTechnologies)
+## [Parallel computing technologies](https://github.com/avelycure/ParallelComputingTechnologies)
+Laboratory works on parallel computing technology courses using OpenMp, MPI and CUDA technologies. Implemented LU-decomposition, binary tree construction, solution of the Helmholtz equation, as well as the problem of the interaction of N bodies
 
-Laboratory works on parallel computing technology courses using OpenMp, MPI and CUDA technologies
+# Course works
 
-### Search for the minimal convex hull
-
-## Course works
-
-### [Dynamic equilibrium of the Chelomey pendulum](https://github.com/avelycure/ScientificWork/tree/master/DynamicEquilibriumOfTheChelomeyPendulum1)
+## [Dynamic equilibrium of the Chelomey pendulum](https://github.com/avelycure/ScientificWork/tree/master/DynamicEquilibriumOfTheChelomeyPendulum1)
 Derivation of the equations of motion for the Chelomey pendulum
+<p>
+<img src="https://github.com/avelycure/avelycure/blob/master/assets/chelomey_pendulum1/chelomey_pendulum.png" width="320" />
+</p>
 
-### [Dynamic equilibrium of the Kapitza's pendulum](https://github.com/avelycure/ScientificWork/tree/master/DynamicEquilibriumOfTheChelomeyPendulum2)
+## [Dynamic equilibrium of the Kapitza's pendulum](https://github.com/avelycure/ScientificWork/tree/master/DynamicEquilibriumOfTheChelomeyPendulum2)
 Numerical simulation of Kapitza's pendulum
+<p>
+<img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssA.png" width="320" />
+  <img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssfA.png" width="320" />
+</p>
 
-### [Finite element method](https://github.com/avelycure/ScientificWork/tree/master/FiniteElementMethod)
+## [Finite element method](https://github.com/avelycure/ScientificWork/tree/master/FiniteElementMethod)
 Building a model for calculating a viscous incompressible fluid in a thin layer between two flat plates using finite element method
+<p>
+<img src="https://github.com/avelycure/avelycure/blob/master/assets/fem/l_analytic.png" width="320" />
+  <img src="https://github.com/avelycure/avelycure/blob/master/assets/fem/p_analytic.png" width="320" />
+</p>
