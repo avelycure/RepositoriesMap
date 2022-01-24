@@ -4,7 +4,7 @@ Here you can easily navigate between my repositories
 
 # Menu
 * [Android(Java + Kotlin)](#android)
-* [Laboratory works(C++)](#laboratory-works-on-c++)
+* [Laboratory works(C++)](#laboratory works)
 * [Course works](#course-works)
 
 # Android
@@ -55,7 +55,7 @@ Application to watch timetable
 ## [Running app](https://github.com/avelycure/RunningApp)
 App for tracking running statistic
 
-# Laboratory works on C++
+# Laboratory works
 
 ## [Numerical methods](https://github.com/avelycure/ScientificWork/tree/master/NumericalMethodsLabs)
 Laboratory work on the course of Numerical Methods. Runge Kutta method and solution of the integral equation
