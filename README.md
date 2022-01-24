@@ -4,7 +4,7 @@ Here you can easily navigate between my repositories
 
 # Menu
 * [Android(Java + Kotlin)](#android)
-* [Laboratory works(C++)](#laboratory works)
+* [Laboratory works(C++)](#laboratory-works)
 * [Course works](#course-works)
 
 # Android
