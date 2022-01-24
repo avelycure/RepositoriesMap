@@ -4,8 +4,8 @@ Here you can easily navigate between my repositories
 
 # Menu
 * [Android(Java + Kotlin)](#android)
-* [Laboratory works(C++)](#labs)
-* [Course works](#course_works)
+* [Laboratory works(C++)](#laboratory-works-on-c++)
+* [Course works](#course-works)
 
 # Android
 A great part of my projects are android apps. Here you can find them
@@ -81,6 +81,6 @@ Numerical simulation of Kapitza's pendulum
 ## [Finite element method](https://github.com/avelycure/ScientificWork/tree/master/FiniteElementMethod)
 Building a model for calculating a viscous incompressible fluid in a thin layer between two flat plates using finite element method
 <p>
-<img src="https://github.com/avelycure/avelycure/blob/master/assets/fem/l_analytic.png" width="320" />
-  <img src="https://github.com/avelycure/avelycure/blob/master/assets/fem/p_analytic.png" width="320" />
+<img src="https://github.com/avelycure/avelycure/blob/master/assets/fem/l_analytic.jpg" width="320" />
+  <img src="https://github.com/avelycure/avelycure/blob/master/assets/fem/p_analytic.jpg" width="320" />
 </p>
