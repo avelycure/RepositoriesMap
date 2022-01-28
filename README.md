@@ -73,10 +73,9 @@ Derivation of the equations of motion for the Chelomey pendulum
 
 ## [Dynamic equilibrium of the Kapitza's pendulum](https://github.com/avelycure/ScientificWork/tree/master/DynamicEquilibriumOfTheChelomeyPendulum2)
 Numerical simulation of Kapitza's pendulum
-<p align="center">
-  <img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssA.png" width="320" />
-  <img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssfA.png" width="320" />
-</p>
+|   |   |
+|---|---|
+| <img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssA.png" width="100%" /> | <img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssfA.png" width="100%" /> |
 
 ## [Finite element method](https://github.com/avelycure/ScientificWork/tree/master/FiniteElementMethod)
 Building a model for calculating a viscous incompressible fluid in a thin layer between two flat plates using finite element method
