@@ -73,8 +73,8 @@ Derivation of the equations of motion for the Chelomey pendulum
 
 ## [Dynamic equilibrium of the Kapitza's pendulum](https://github.com/avelycure/ScientificWork/tree/master/DynamicEquilibriumOfTheChelomeyPendulum2)
 Numerical simulation of Kapitza's pendulum
-<p>
-<img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssA.png" width="320" />
+<p align="center">
+  <img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssA.png" width="320" />
   <img src="https://github.com/avelycure/avelycure/blob/master/assets/kapitza/ssfA.png" width="320" />
 </p>
 
