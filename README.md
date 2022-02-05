@@ -17,8 +17,8 @@ Application for getting information about films from The Movie Database:
 * search movie by name
 * get detailed information about the movie
 <p>
-  <img src="https://github.com/avelycure/avelycure/blob/master/assets/movieFan/main.jpg" width="256" />
-  <img src="https://github.com/avelycure/avelycure/blob/master/assets/movieFan/movie_info1.jpg" width="256" />
+  <img src="https://github.com/avelycure/avelycure/blob/master/assets/movieFan/main_movies.jpg" width="256" />
+  <img src="https://github.com/avelycure/avelycure/blob/master/assets/movieFan/movie_info__1.jpg" width="256" />
 </p>
 
 ## [Cryptostats](https://github.com/avelycure/CryptoStats)
